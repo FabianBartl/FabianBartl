@@ -9,6 +9,7 @@
 [![PyPI Downloads](https://img.shields.io/pypi/dm/vectometry)](https://pypistats.org/packages/vectometry)&nbsp;
 
 A Python library for simple use of common vector and point operations in 3-dimensional space as well as for 2-dimensions.
+
 *(plane operations will come in the next update)*
 
 See more [here](https://github.com/InformaticFreak/vectometry).
