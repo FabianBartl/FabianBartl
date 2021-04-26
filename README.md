@@ -12,11 +12,11 @@ A Python library for simple use of common vector and point operations in 3-dimen
 
 *(plane operations will come in the next update)*
 
-See more [here](https://github.com/InformaticFreak/vectometry).
-
 ```bash
 pip install vectometry
 ```
+
+See more [here](https://github.com/InformaticFreak/vectometry)
 
 ## Register Machine Simulator
 
@@ -25,4 +25,5 @@ pip install vectometry
 
 A simulator for a simple register machine as an code interpreter written in Python. The register machine language defines 30 different commands for basic input, output and arithmetic operations.
 
+See more [here](https://github.com/InformaticFreak/register-machine-simulator)
 
