@@ -7,14 +7,14 @@
 
 ### Languages
 
-<abbr title="Python3"><img align="left" src="icons/python.svg" alt="Python3" width="30" height="30"/></abbr>&nbsp;
-<abbr title="HTML"><img align="left" src="icons/html.svg" alt="HTML" width="30" height="30"/></abbr>&nbsp;
-<abbr title="CSS"><img align="left" src="icons/css.svg" alt="CSS" width="30" height="30"/></abbr>&nbsp;
+<img align="left" src="icons/python.svg" alt="Python3" width="30" height="30"/>&nbsp;
+<img align="left" src="icons/html.svg" alt="HTML" width="30" height="30"/>&nbsp;
+<img align="left" src="icons/css.svg" alt="CSS" width="30" height="30"/>&nbsp;
 
 ### Tools
 
-<abbr title="Notepad++"><img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30"/></abbr>&nbsp;
-<abbr title="Windows Terminal"><img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30"/></abbr>&nbsp;
+(<img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30"/>)[https://github.com/notepad-plus-plus/notepad-plus-plus]&nbsp;
+<img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30"/>&nbsp;
 
 ### Stats
 
