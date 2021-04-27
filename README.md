@@ -5,9 +5,7 @@
 
 ### Languages
 
-[Python](https://en.wikipedia.org/wiki/Python_(programming_language))&nbsp;
-[HTML](https://en.wikipedia.org/wiki/CSS)nbsp;
-[CSS](https://en.wikipedia.org/wiki/HTML)&nbsp;
+
 
 ### Tools
 
@@ -26,3 +24,7 @@
 * [![GitHub License](https://img.shields.io/badge/license-MIT-green)](LICENSE.txt)&nbsp;[![Python Version](https://img.shields.io/badge/python-3-blue)](https://www.python.org/downloads/)&nbsp;
 * A simulator for a simple register machine as an code interpreter written in Python. The register machine language defines 30 different commands for basic input, output and arithmetic operations
 * `py rm_simulator.py [path] [optional -p or -w] [optional time]`
+
+### GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark)
