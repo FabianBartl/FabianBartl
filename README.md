@@ -11,13 +11,13 @@
 
 ### Languages
 
-![Python3](icons/python.svg)&nbsp;
-![HTML](icons/html.svg)&nbsp;
-![CSS](icons/css.svg)&nbsp;
+<img align="left" src="icons/python.svg" alt="Python3" />&nbsp;
+<img align="left" src="icons/html.svg" alt="HTML" />&nbsp;
+<img align="left" src="icons/css.svg" alt="CSS" />&nbsp;
 
 ### Tools
 
-![Notepad++](icons/notepadpp.svg)&nbsp;
+<img align="left" src="icons/notepadpp.svg" alt="Notepad++" />&nbsp;
 
 ### Stats
 
