@@ -27,4 +27,5 @@
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark)&nbsp;
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=FabianBartl&show_icons=true&hide_border=true&theme=dark)&nbsp;
