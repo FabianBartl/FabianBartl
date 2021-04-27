@@ -16,8 +16,8 @@
 
 ### Tools
 
-<img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30"/>&nbsp;
 <img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30"/>&nbsp;
+<img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30"/>&nbsp;
 
 ### Stats
 
