@@ -23,5 +23,5 @@
 
 ### Projects
 
-![vectometry](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=vectometry&theme=dark)&nbsp;
-![Register Machine Simulator](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=register-machine-simulator&theme=dark)&nbsp;
+![vectometry](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=vectometry&show_icons=true&hide_border=true&theme=dark)&nbsp;
+![Register Machine Simulator](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=register-machine-simulator&show_icons=true&hide_border=true&theme=dark)&nbsp;
