@@ -7,14 +7,14 @@
 
 ### Languages
 
-<img align="left" src="icons/python.svg" alt="Python3" width="40" height="40" />&nbsp;
-<img align="left" src="icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
-<img align="left" src="icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
+<img align="left" src="icons/python.svg" alt="Python3" width="30" height="30" />&nbsp;
+<img align="left" src="icons/html.svg" alt="HTML" width="30" height="30" />&nbsp;
+<img align="left" src="icons/css.svg" alt="CSS" width="30" height="30" />&nbsp;
 
 ### Tools
 
-<img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="40" height="40" />&nbsp;
-<img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="40" height="40" />&nbsp;
+<img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30" />&nbsp;
+<img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30" />&nbsp;
 
 ### Stats
 
