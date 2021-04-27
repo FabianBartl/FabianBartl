@@ -1,29 +1,17 @@
 
-# My Projects
+### Hi, I'm Fabian - aka InformaticFreak 👋
 
-## vectometry
+I'm making 
 
-[![GitHub License](https://img.shields.io/badge/license-MIT-green)](LICENSE.txt)&nbsp;
-[![Python Version](https://img.shields.io/badge/python-3-blue)](https://www.python.org/downloads/)&nbsp;
-[![PyPI Version](https://img.shields.io/pypi/v/vectometry)](https://pypi.org/project/vectometry/)&nbsp;
-[![PyPI Downloads](https://img.shields.io/pypi/dm/vectometry)](https://pypistats.org/packages/vectometry)&nbsp;
+---
 
-A Python library for simple use of common vector and point operations in 3-dimensional space as well as for 2-dimensions.
+### Languages
 
-*(plane operations will come in the next update)*
+### Tools
 
-```bash
-pip install vectometry
-```
+### My Projects
 
-See more [here](https://github.com/InformaticFreak/vectometry)
+*  [vectometry](https://github.com/InformaticFreak/vectometry) - A Python library for simple use of common vector and point operations in 3-dimensional space as well as for 2-dimensions. `pip install vectometry`
 
-## Register Machine Simulator
-
-[![GitHub License](https://img.shields.io/badge/license-MIT-green)](LICENSE.txt)&nbsp;
-[![Python Version](https://img.shields.io/badge/python-3-blue)](https://www.python.org/downloads/)&nbsp;
-
-A simulator for a simple register machine as an code interpreter written in Python. The register machine language defines 30 different commands for basic input, output and arithmetic operations.
-
-See more [here](https://github.com/InformaticFreak/register-machine-simulator)
+* [Register Machine Simulator](https://github.com/InformaticFreak/register-machine-simulator) - A simulator for a simple register machine as an code interpreter written in Python. The register machine language defines 30 different commands for basic input, output and arithmetic operations.
 
