@@ -18,10 +18,10 @@
 
 ### Stats
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true&layout=compact)&nbsp;
-![GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=FabianBartl&layout=compact)&nbsp;
+![GitHub](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true)&nbsp;
+[](![GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=FabianBartl&layout=compact)&nbsp;)
 
 ### Projects
 
-![vectometry](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=vectometry&show_owner=true)&nbsp;
-![Register Machine Simulator](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=register-machine-simulator&show_owner=true)&nbsp;
+![vectometry](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=vectometry&theme=dark)&nbsp;
+![Register Machine Simulator](https://github-readme-stats.vercel.app/api/pin/?username=InformaticFreak&repo=register-machine-simulator&theme=dark)&nbsp;
