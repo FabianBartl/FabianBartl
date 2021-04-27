@@ -1,9 +1,5 @@
 
-### Hi, I'm Fabian - aka InformaticFreak 👋
-
----
-
-## I'm a Student and Developer
+## Hi, I'm Fabian - aka InformaticFreak 👋
 
 * 🔭 I'm currently working on my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
 * 🏳 I speak **German** and some **English**
