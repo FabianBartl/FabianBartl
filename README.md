@@ -13,8 +13,8 @@
 
 ### Tools
 
-<a href="https://github.com/notepad-plus-plus/notepad-plus-plus" target="_blank"><img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30"/></a>&nbsp;
-<a href="https://github.com/microsoft/terminal" target="_blank"><img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30"/></a>&nbsp;
+<a href="https://github.com/notepad-plus-plus/notepad-plus-plus" target="blank"><img align="left" src="icons/notepad-plus-plus.svg" alt="Notepad++" width="30" height="30"/></a>&nbsp;
+<a href="https://github.com/microsoft/terminal" target="blank"><img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30"/></a>&nbsp;
 
 ### Stats
 
