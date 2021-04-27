@@ -16,6 +16,7 @@
 <a href="https://github.com/notepad-plus-plus/notepad-plus-plus" target="blank"><img align="left" src="notepad-plus-plus_mod.svg" alt="Notepad++" width="30" height="30"/></a>&nbsp;
 <a href="https://github.com/microsoft/terminal" target="blank"><img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30" height="30"/></a>&nbsp;
 
+
 ### Stats
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true)&nbsp;
