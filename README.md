@@ -22,7 +22,7 @@
 ### Stats
 
 ![GitHub](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true)&nbsp;
-![GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=FabianBartl&layout=compact)&nbsp;
+![GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true&layout=compact)&nbsp;
 
 <!-- ### Projects -->
 
