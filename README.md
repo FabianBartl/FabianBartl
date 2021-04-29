@@ -19,7 +19,7 @@
 <img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30px" height="30px"/>&nbsp;
 <img align="left" src="icons/notepad-plus-plus_mod.svg" alt="Notepad++" width="30px" height="30px"/>&nbsp;
 
-* See [here](windows-terminal/settings.json) my personal setup for the [Windows Terminal](https://github.com/microsoft/terminal)
+*See [here](windows-terminal/settings.json) my personal setup for the [Windows Terminal](https://github.com/microsoft/terminal)*
 
 ### Stats
 
