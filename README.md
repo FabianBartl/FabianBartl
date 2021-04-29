@@ -1,12 +1,12 @@
 
-## Hi, I'm Fabian - aka InformaticFreak :wave:
+## Hi, I'm Fabian - aka InformaticFreak 👋
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTfnJk7jqiZxl8EkT5Fb8KA?style=social)](https://www.youtube.com/channel/UCTfnJk7jqiZxl8EkT5Fb8KA?sub_confirmation=1)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/fabianbartl?style=social)](https://github.com/FabianBartl)&nbsp;
 
-* :telescope: I'm currently working on my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
-* :flag_white: I speak native **German** and some **English**
-* :speech_balloon: Ask me about **Python3**
+* 🔭 I'm currently working on my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
+* 🏳 I speak native **German** and some **English**
+* 💬 Ask me about **Python3**
 
 ### Languages
 
