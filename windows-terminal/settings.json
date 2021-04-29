@@ -16,7 +16,7 @@
 	"copyFormatting": true,
 	"confirmCloseAllTabs": false,
 	"alwaysOnTop": false,
-    "launchMode": "maximized",
+	"launchMode": "maximized",
 
 	// A profile specifies a command to execute paired with information about how it should look and feel.
 	// Each one of them will appear in the 'New Tab' dropdown,
