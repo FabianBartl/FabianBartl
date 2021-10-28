@@ -3,6 +3,7 @@
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTfnJk7jqiZxl8EkT5Fb8KA?style=social)](https://www.youtube.com/channel/UCTfnJk7jqiZxl8EkT5Fb8KA?sub_confirmation=1)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/fabianbartl?style=social)](https://github.com/FabianBartl)&nbsp;
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 
 * 🔭 I'm currently working on my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
 * 🏳 I speak native **German** and some **English**
