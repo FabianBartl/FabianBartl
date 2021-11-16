@@ -19,9 +19,9 @@
 
 ### Tools
 
-<img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30px" height="30px"/>&nbsp;
-<img align="left" src="icons/notepad-plus-plus_mod.svg" alt="Notepad++" width="30px" height="30px"/>&nbsp;
-<img align="left" src="icons/notable.png" alt="Notable" width="30px" height="30px"/>&nbsp;
+<a href="https://github.com/Microsoft/Terminal" target="_blank"><img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30px" height="30px"/></a>&nbsp;
+<a href="https://notepad-plus-plus.org/" target="_blank"><img align="left" src="icons/notepad-plus-plus_mod.svg" alt="Notepad++" width="30px" height="30px"/></a>&nbsp;
+<a href="https://notable.app/" target="_blank"><img align="left" src="icons/notable.png" alt="Notable" width="30px" height="30px"/></a>&nbsp;
 
 ### Stats
 
