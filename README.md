@@ -5,9 +5,10 @@
 [![GitHub](https://img.shields.io/github/followers/fabianbartl?style=social)](https://github.com/FabianBartl)&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 
-* 🔭 At last I worked on my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
-* 🏳 I speak native **German** and some **English**
-* 💬 Ask me about **Python3**
+* Here I publish my *german* Notes about the current topic **[Higher Mathematics for Engineers 1](http://tubaf.informatic-freak.de/hoehere-mathematik-fuer-ingenieure-1.php)**
+* At last I published my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
+* I speak native **German** and some **English**
+* Ask me about **Python3**
 
 ### Languages
 
