@@ -21,5 +21,8 @@
 
 ### Stats
 
-![GitHub](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true)&nbsp;
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
+
+<!-- ![GitHub](https://github-readme-stats.vercel.app/api?username=FabianBartl&show_icons=true&hide_border=true&theme=dark&locale=en&include_all_commits=true&count_private=true)&nbsp; -->
 <!-- ![GitHub](https://github-readme-stats.vercel.app/api/top-langs?username=FabianBartl&layout=compact)&nbsp; -->
