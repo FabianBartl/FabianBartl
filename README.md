@@ -7,7 +7,7 @@
 
 * At last I published my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
 * Currently I am learning C for microcontroller programming
-
+<!--
 ### Languages & Tools
 
 <img align="left" src="icons/python.svg" alt="Python3" width="30px" height="30px"/>&nbsp;
@@ -18,7 +18,7 @@
 <img align="left" src="icons/windows-terminal.svg" alt="Windows Terminal" width="30px" height="30px"/>&nbsp;
 <img align="left" src="icons/notepad-plus-plus_mod.svg" alt="Notepad++" width="30px" height="30px"/>&nbsp;
 <img align="left" src="icons/notable.png" alt="Notable" width="30px" height="30px"/>&nbsp;
-
+-->
 ### Stats
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
