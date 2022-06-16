@@ -23,5 +23,5 @@
 
 ### Stats
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=classic)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=one_year&include_private=True&loc_metric=changed&compact=True&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=one_year&include_private=True&theme=classic)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=one_year&include_private=True&compact=True&theme=classic)](https://githubtrends.io)
