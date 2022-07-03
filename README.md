@@ -5,8 +5,8 @@
 [![GitHub](https://img.shields.io/github/followers/fabianbartl?style=social)](https://github.com/FabianBartl)&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 
-* At last I published my Python3 library **[vectometry](https://github.com/InformaticFreak/vectometry)**
-* Currently I am learning C for microcontroller programming
+* At last I have programmed a tool that allows you to analyze the data Discord collects about you, see the [Discord-data Analyzer](https://github.com/InformaticFreak/discord-data-analyzer)
+* Currently I am using a lot C/C++ for microcontroller programming
 
 <!--
 ### Languages & Tools
