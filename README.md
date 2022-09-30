@@ -43,3 +43,9 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 
 <a href="https://ko-fi.com/informaticfreak"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="informaticfreak"/></a>
 -->
+
+## Links
+
+- [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
+- [Stop Misquoting Donald Knuth!](http://www.joshbarczak.com/blog/?p=580)
+
