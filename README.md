@@ -31,8 +31,8 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 
 ### Total
 
-&nbsp;[![](generated/overview.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
-&nbsp;[![](generated/languages.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
+[![](generated/overview.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
+[![](generated/languages.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
 
 <!--
 ## Support
