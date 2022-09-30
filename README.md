@@ -27,15 +27,15 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 ### Latest
 
 <a href="https://githubtrends.io" target="_blank">
-	&nbsp;[](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic)
-	&nbsp;[](https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic)
+	&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic">
+	&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic">
 </a>
 
 ### Total
 
 <a href="https://github.com/jstrieb/github-stats" target="_blank">
-	[](generated/overview.svg#gh-light-mode-only)
-	[](generated/languages.svg#gh-light-mode-only)
+	<img src="generated/overview.svg#gh-light-mode-only">
+	<img src="generated/languages.svg#gh-light-mode-only">
 </a>
 
 <!--
