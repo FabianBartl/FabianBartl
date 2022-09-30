@@ -26,13 +26,17 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 
 ### Latest
 
-&nbsp;[![](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic)](https://githubtrends.io)
-&nbsp;[![](https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic)](https://githubtrends.io)
+<a href="https://githubtrends.io" target="_blank">
+	&nbsp;[](https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic)
+	&nbsp;[](https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic)
+</a>
 
 ### Total
 
-[![](generated/overview.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
-[![](generated/languages.svg#gh-light-mode-only)](https://github.com/jstrieb/github-stats)
+<a href="https://github.com/jstrieb/github-stats" target="_blank">
+	[](generated/overview.svg#gh-light-mode-only)
+	[](generated/languages.svg#gh-light-mode-only)
+</a>
 
 <!--
 ## Support
