@@ -32,7 +32,7 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 	</a>
 </details>
 
-<details>
+<details open>
 	<summary>Total</summary>
 	<a href="https://github.com/jstrieb/github-stats" target="_blank">
 		<img src="generated/overview.svg#gh-light-mode-only">
