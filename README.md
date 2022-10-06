@@ -38,14 +38,8 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 	<img src="generated/languages.svg#gh-light-mode-only">
 </a>
 
-<!--
-## Support
-
-<a href="https://ko-fi.com/informaticfreak"><img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="informaticfreak"/></a>
--->
-
 ## Links
 
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
-- [Stop Misquoting Donald Knuth!](http://www.joshbarczak.com/blog/?p=580)
 
+<figure><embed src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/4ced5ce7-3f16-4d3a-b677-ba5f0608b6b3.svg"></embed></figure>
