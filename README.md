@@ -42,4 +42,4 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
 
-<figure><embed src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/4ced5ce7-3f16-4d3a-b677-ba5f0608b6b3.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/572cbdd4-b335-4d7c-b91f-6563e65dee96.png" /></a>
