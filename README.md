@@ -24,22 +24,22 @@ Before that I programmed a tool with **Python** that allows you to analyze the d
 
 ## Stats
 
-### Latest
+<details>
+	<summary>Latest</summary>
+	<a href="https://githubtrends.io" target="_blank">
+		&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic">
+		&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic">
+	</a>
+</details>
 
-<a href="https://githubtrends.io" target="_blank">
-	&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic">
-	&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic">
-</a>
-
-### Total
-
-<a href="https://github.com/jstrieb/github-stats" target="_blank">
-	<img src="generated/overview.svg#gh-light-mode-only">
-	<img src="generated/languages.svg#gh-light-mode-only">
-</a>
+<details>
+	<summary>Total</summary>
+	<a href="https://github.com/jstrieb/github-stats" target="_blank">
+		<img src="generated/overview.svg#gh-light-mode-only">
+		<img src="generated/languages.svg#gh-light-mode-only">
+	</a>
+</details>
 
 ## Links
 
 - [How to Report Bugs Effectively](https://www.chiark.greenend.org.uk/~sgtatham/bugs.html)
-
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/572cbdd4-b335-4d7c-b91f-6563e65dee96.png" /></a>
