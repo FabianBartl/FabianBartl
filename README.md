@@ -6,6 +6,17 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
 
+I'm participating in [Advent of Code](https://adventofcode.com/2022) again this year. These are my stats and [my Code](https://github.com/FabianBartl/AdventOfCode/tree/2022/2020):
+
+```
+      --------Part 1--------   --------Part 2--------
+Day       Time   Rank  Score       Time   Rank  Score
+  4   07:19:29  53699      0   07:21:55  51506      0
+  3   08:32:20  57743      0   09:07:40  54157      0
+  2   09:16:42  74828      0   09:51:47  71887      0
+  1   07:40:08  55791      0   08:06:29  54780      0
+```
+
 I'm currently developing a few websites, two using the **Jekyll Framework** and **Liquid** for GitHub Pages and one with **PHP** backend on my own web server:
 
   * [mtex-toolbox.github.io](https://mtex-toolbox.github.io/)
@@ -14,11 +25,9 @@ I'm currently developing a few websites, two using the **Jekyll Framework** and 
 
 <small><sup>[1]</sup> programmed from scratch</small>
 
-<span color="red">Test</span>
+In my recent project I programmed a [steganography toolbox](https://github.com/InformaticFreak/steganography-toolbox) with **Python**, for example to hide text in images.
 
-In my recent projects I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
-
-Before that I programmed a tool with **Python** that allows you to analyze the data Discord collects about you, see the [Discord&#8209;data&nbsp;Analyzer](https://github.com/InformaticFreak/discord-data-analyzer).
+Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
 
 ## Languages
 
