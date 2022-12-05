@@ -49,7 +49,7 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         EXCLUDED: ""  #${{ secrets.EXCLUDED }}
-        EXCLUDED_LANGS: "txt,h,c,m"  #${{ secrets.EXCLUDED_LANGS }}
+        EXCLUDED_LANGS: "txt"  #${{ secrets.EXCLUDED_LANGS }}
         EXCLUDE_FORKED_REPOS: ""  #${{ secrets.EXCLUDE_FORKED_REPOS }}
 
     # Commit all changed files to the repository
