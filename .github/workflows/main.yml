@@ -52,6 +52,12 @@ jobs:
         EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
         EXCLUDE_FORKED_REPOS: ${{ secrets.EXCLUDE_FORKED_REPOS }}
 
+    # Get some secrets
+    - name: |
+        echo EXCLUDED: ${{ secrets.EXCLUDED }}
+        echo EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
+        echo EXCLUDE_FORKED_REPOS: ${{ secrets.EXCLUDE_FORKED_REPOS }}
+
     # Commit all changed files to the repository
     - name: Commit to the repo
       run: |
