@@ -4,7 +4,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: "5 0 * * *"
+    - cron: "30 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -48,16 +48,9 @@ jobs:
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        EXCLUDED: ${{ secrets.EXCLUDED }}
-        EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-        EXCLUDE_FORKED_REPOS: ${{ secrets.EXCLUDE_FORKED_REPOS }}
-
-    # Get not secret secrets
-    - name: Get not secret secrets
-      run: |
-        echo EXCLUDED: ${{ secrets.EXCLUDED }}
-        echo EXCLUDED_LANGS: ${{ secrets.EXCLUDED_LANGS }}
-        echo EXCLUDE_FORKED_REPOS: ${{ secrets.EXCLUDE_FORKED_REPOS }}
+        EXCLUDED: ""  #${{ secrets.EXCLUDED }}
+        EXCLUDED_LANGS: "txt,h,m"  #${{ secrets.EXCLUDED_LANGS }}
+        EXCLUDE_FORKED_REPOS: ""  #${{ secrets.EXCLUDE_FORKED_REPOS }}
 
     # Commit all changed files to the repository
     - name: Commit to the repo
