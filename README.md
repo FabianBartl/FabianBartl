@@ -11,6 +11,7 @@ I'm participating in [Advent of Code](https://adventofcode.com/2022) again this 
 ```
       --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
+ 11   05:45:14  19806      0          -      -      -
  10   07:09:01  29965      0   09:04:10  29669      0
   9   08:38:55  33319      0          -      -      -
   8   12:44:14  52048      0   15:01:19  49461      0
