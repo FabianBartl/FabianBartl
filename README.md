@@ -28,7 +28,7 @@ I'm currently developing a few websites, two using the **Jekyll Framework** and 
 
   * [mtex-toolbox.github.io](https://mtex-toolbox.github.io/)
   * [werobots-cottbus.github.io](https://werobots-cottbus.github.io/) <!-- <sup>[1]</sup> -->
-  * [franjoli-productions.de](http://franjoli-productions.de/) <sup>[1]</sup>
+  * [franjoli-productions.de](https://franjoli-productions.de/) <sup>[1]</sup>
 
 <small><sup>[1]</sup> programmed from scratch</small>
 
