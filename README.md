@@ -37,7 +37,7 @@ In my recent project I programmed a [steganography toolbox](https://github.com/I
 
 Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
 
-## Languages
+## Languages <!-- &amp; Frameworks -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C/C++" alt="C/C++" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -49,6 +49,11 @@ Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>
+
+<br>
+<!--
+Flask, Jinja, Jekyll
+-->
 
 ## Stats
 
