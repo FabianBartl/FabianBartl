@@ -6,34 +6,15 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
 
-I'm participating in [Advent of Code](https://adventofcode.com/2022) again this year. These are my stats and [my Code](https://github.com/FabianBartl/AdventOfCode/tree/2022/2020):
-
-```
-      --------Part 1--------   --------Part 2--------
-Day       Time   Rank  Score       Time   Rank  Score
- 11   05:45:14  19806      0          -      -      -
- 10   07:09:01  29965      0   09:04:10  29669      0
-  9   08:38:55  33319      0          -      -      -
-  8   12:44:14  52048      0   15:01:19  49461      0
-  7  (34:14:00) 70091      0  (34:29:00) 68286      0
-  6   07:44:02  59054      0   07:46:01  57800      0
-  5   04:25:26  30988      0   05:16:39  33355      0
-  4   07:19:29  53699      0   07:21:55  51506      0
-  3   08:32:20  57743      0   09:07:40  54157      0
-  2   09:16:42  74828      0   09:51:47  71887      0
-  1   07:40:08  55791      0   08:06:29  54780      0
-```
-
-I'm currently developing a few websites, two using the **Jekyll** Framework and **Liquid** for GitHub Pages, one with **PHP** backend on my own web server and one using Python **Flask** as backend:
+I'm developing a couple of websites right now, the first one using **Jekyll** framework and **Liquid** for GitHub Pages, the second one using **PHP** backend on my own web server and the third one using Python **Flask** and **Jinja** templates as backend and **jQuery** in frontend:
 
   * [mtex-toolbox.github.io](https://mtex-toolbox.github.io/)
-  * [werobots-cottbus.github.io](https://werobots-cottbus.github.io/) <!-- <sup>[1]</sup> -->
   * [franjoli-productions.de](https://franjoli-productions.de/) <sup>[1]</sup>
   * local: [filmbibliothek/](https://github.com/FabianBartl/Filmbibliothek) <sup>[1]</sup>
 
 <small><sup>[1]</sup> programmed from scratch</small>
 
-In my recent project I programmed a [steganography toolbox](https://github.com/InformaticFreak/steganography-toolbox) with **Python**, for example to hide text in images.
+In my recent project I programmed a local hosted movie streaming service for your own movie collection, named [Filmbibliothek](https://github.com/FabianBartl/Filmbibliothek) with Python **Flask** and **Jinja** templates as backend. In this project I also used a lot of **jQuery**, for example to implement custom HTML5 video controls or a client-side search function.
 
 Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
 
