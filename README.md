@@ -6,7 +6,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
 
-I'm developing a couple of websites right now, the first one using **Jekyll** framework and **Liquid** for GitHub Pages, the second one using **PHP** backend on my own web server and the third one using Python **Flask** and **Jinja** templates as backend and **jQuery** in frontend:
+I'm developing a couple of websites right now, the first one using **Jekyll** framework and **Liquid** for GitHub Pages, the second one using **PHP** backend on my own web server and the third one using Python **Flask** as backend and **jQuery** in frontend:
 
   * [mtex-toolbox.github.io](https://mtex-toolbox.github.io/)
   * [franjoli-productions.de](https://franjoli-productions.de/) <sup>[1]</sup>
@@ -14,7 +14,7 @@ I'm developing a couple of websites right now, the first one using **Jekyll** fr
 
 <small><sup>[1]</sup> programmed from scratch</small>
 
-In my recent project I programmed a local hosted movie streaming service for your own movie collection, named [Filmbibliothek](https://github.com/FabianBartl/Filmbibliothek) with Python **Flask** and **Jinja** templates as backend. In this project I also used a lot of **jQuery**, for example to implement custom HTML5 video controls or a client-side search function.
+In my recent project I programmed a local hosted movie streaming service for your own movie collection, named [Filmbibliothek](https://github.com/FabianBartl/Filmbibliothek). It is programmed with Python **Flask** and **Jinja** templates as backend and **jQuery** in frontent.
 
 Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
 
