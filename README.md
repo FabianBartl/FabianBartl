@@ -1,5 +1,5 @@
 
-# Hi, I'm Fabian - aka InformaticFreak 👋
+# Hi, I'm Fabian &minus; aka InformaticFreak 👋
 
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTfnJk7jqiZxl8EkT5Fb8KA?style=social)](https://www.youtube.com/channel/UCTfnJk7jqiZxl8EkT5Fb8KA?sub_confirmation=1)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/fabianbartl?style=social)](https://github.com/FabianBartl)&nbsp;
