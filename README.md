@@ -6,17 +6,20 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
 
-I'm developing a couple of websites right now, the first one using **Jekyll** framework and **Liquid** for GitHub Pages, the second one using **PHP** backend on my own web server and the third one using Python **Flask** as backend and **jQuery** in frontend:
+I'm developing a couple of websites currently, the first two using the **Jekyll** framework and **Liquid** for GitHub Pages, the third one using a **PHP** backend on my own web server and the last one using Python **Flask** as backend and **jQuery** in frontend:
 
   * [mtex-toolbox.github.io](https://mtex-toolbox.github.io/)
+  * [bezirkskomitee-chemnitz.github.io](https://bezirkskomitee-chemnitz.github.io/) <sup>[1]</sup>
   * [franjoli-productions.de](https://franjoli-productions.de/) <sup>[1]</sup>
   * local: [filmbibliothek/](https://github.com/FabianBartl/Filmbibliothek) <sup>[1]</sup>
 
 <small><sup>[1]</sup> programmed from scratch</small>
 
-In my recent project I programmed a local hosted movie streaming service for your own movie collection, named [Filmbibliothek](https://github.com/FabianBartl/Filmbibliothek). It is programmed with Python **Flask** and **Jinja** templates as backend and **jQuery** in frontent.
+In my recent private project I programmed a local hosted movie streaming service for your own movie collection, named [Filmbibliothek](https://github.com/FabianBartl/Filmbibliothek). It is programmed with Python **Flask** and **Jinja** templates as backend and **jQuery** in frontent. It also includes a script to collect some metadata about a movie, only based on its name.
 
 Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
+
+And right now I'm learning *high performance computing* in **C** and **Python** with the libraries **OpenMP** and **MPI**.
 
 ## Languages <!-- &amp; Frameworks -->
 
