@@ -19,7 +19,7 @@ In my recent private project I programmed a local hosted movie streaming service
 
 Before that I did a lot of programming in **C/C++** for microcontrollers: e.g. [AudioRGB](https://github.com/FabianBartl/AudioRGB)
 
-And right now I'm learning *high performance computing* in **C** and **Python** with the libraries **OpenMP** and **MPI**.
+And right now I'm learning *high performance computing* in **C** and **Python** using the libraries **OpenMP** and **MPI**.
 
 ## Languages <!-- &amp; Frameworks -->
 
