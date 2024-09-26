@@ -1,7 +1,6 @@
 
-# Hi, I'm Fabian &minus; aka InformaticFreak 👋
+# Hi, I'm Fabian 👋
 
-[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCTfnJk7jqiZxl8EkT5Fb8KA?style=social)](https://www.youtube.com/channel/UCTfnJk7jqiZxl8EkT5Fb8KA?sub_confirmation=1)&nbsp;
 [![GitHub](https://img.shields.io/github/followers/fabianbartl?style=social)](https://github.com/FabianBartl)&nbsp;
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
@@ -9,7 +8,6 @@
 I'm developing a couple of websites currently, the first two using the **Jekyll** framework and **Liquid** for GitHub Pages, the third one using a **PHP** backend on my own web server and the last one using Python **Flask** as backend and **jQuery** in frontend:
 
   * [mtex-toolbox.github.io](https://mtex-toolbox.github.io/)
-  * [bezirkskomitee-chemnitz.github.io](https://bezirkskomitee-chemnitz.github.io/) <sup>[1]</sup>
   * [franjoli-productions.de](https://franjoli-productions.de/) <sup>[1]</sup>
   * local: [filmbibliothek/](https://github.com/FabianBartl/Filmbibliothek) <sup>[1]</sup>
 
@@ -24,13 +22,11 @@ And right now I'm learning *high performance computing* in **C** and **Python** 
 ## Languages <!-- &amp; Frameworks -->
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" title="C/C++" alt="C/C++" width="40" height="40"/>&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" title="Jekyll" alt="Jekyll" width="40" height="40"/>
 
