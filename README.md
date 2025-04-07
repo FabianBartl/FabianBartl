@@ -11,6 +11,8 @@ Right now I'm learning *parallel computing* in C and Python using the libraries 
 
 <!-- TODO: write some lines about self-hosting -->
 
+<!-- TODO: write some lines about current projects like the gdpr analysis tools -->
+
 
 <!-- ## Languages &amp; Frameworks -->
 
