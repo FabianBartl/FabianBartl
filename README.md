@@ -35,7 +35,7 @@ Some specs:
 
 ## Stats
 
-<img src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/f5e0ad6f-e227-4a3b-9199-80c1a0dee9a8.svg" width="100%">
+<img src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/8ae07b6f-03f6-4261-8525-0c7f6e5e4633.png" width="100%">
 
 <details>
 	<summary>Used languages</summary>
