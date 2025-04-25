@@ -35,23 +35,13 @@ Some specs:
 
 ## Stats
 
+<img src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/f5e0ad6f-e227-4a3b-9199-80c1a0dee9a8.svg" width="100%">
+
 <details>
-	<summary>Latest</summary>
-	<a href="https://githubtrends.io" target="_blank">
-		&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/repos?time_range=three_months&include_private=True&theme=classic">
-		&nbsp;<img src="https://api.githubtrends.io/user/svg/FabianBartl/langs?time_range=three_months&include_private=True&compact=True&theme=classic">
-	</a>
+	<summary>Used languages</summary>
+	<img src="https://wakatime.com/share/@de63f4ec-0b0d-40c1-8ed3-36b881955881/bdfe0773-b83a-4e3a-beed-d7a536b4abc2.svg" width="100%">
 </details>
 
-<!--
-<details open>
-	<summary>Total</summary>
-	<a href="https://github.com/jstrieb/github-stats" target="_blank">
-		<img src="generated/overview.svg#gh-light-mode-only">
-		<img src="generated/languages.svg#gh-light-mode-only">
-	</a>
-</details>
--->
 
 ## Links
 
