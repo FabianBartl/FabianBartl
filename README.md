@@ -12,9 +12,9 @@ Right now I'm learning *parallel computing* in C and Python using OpenMP and MPI
 In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS from [Hetzner](https://hetzner.cloud/?ref=R1fOxWby9OCZ) to host [Pangolin](https://fossorial.io/), a free and open-source reverse proxy, as an alternative to the Cloudflare solution. For domain registration, I use [IONOS](https://aklam.io/p11ScA).
 
 Some specs:
- - *Home server:* Ryzen 5 PRO 4650G CPU with iGPU ● 32GB DDR4-3200 ECC RAM ● 2x Seagate 8TB HDD for data ● 1TB NVME SSD for boot ● 350W Flex-ATX PSU ● ASRock A520M-ITX/ac
+ - *Home server:* Ryzen 5 PRO 4650G CPU with iGPU ● 32GiB DDR4-3200 ECC RAM ● 2x Seagate 8TiB HDD for data ● 500GiB NVME SSD for boot ● 350W Flex-ATX PSU ● ASRock A520M-ITX/ac
 
- - *Hetzner VPS CX22:* 2x shared vCPU ● 4GB RAM ● 40GB SSD ● dedicated IPv4 and IPv6 ● 20TB outbound traffic / month ● unlimited inbound traffic
+ - *Hetzner VPS CX22:* 2x shared vCPU ● 4GiB RAM ● 40GiB SSD ● dedicated IPv4 and IPv6 ● 20TB outbound traffic / month ● unlimited inbound traffic
 
 
 <!-- TODO: write some lines about current projects like the gdpr analysis tools -->
