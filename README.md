@@ -9,7 +9,7 @@ During the 2024/25 semester, I completed an internship where I developed the ski
 
 Right now I'm learning *parallel computing* in C and Python using OpenMP and MPI.
 
-In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS from Hetzner to host [Pangolin](https://fossorial.io/), a free and open-source reverse proxy, as an alternative to the Cloudflare man-in-the-middle solution. For domain registration, I use [IONOS](https://aklam.io/p11ScA).
+In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS from [Hetzner](https://hetzner.cloud/?ref=R1fOxWby9OCZ) to host [Pangolin](https://fossorial.io/), a free and open-source reverse proxy, as an alternative to the Cloudflare solution. For domain registration, I use [IONOS](https://aklam.io/p11ScA).
 
 Some specs:
  - *Home server:* Ryzen 5 PRO 4650G CPU with iGPU ● 32GB DDR4-3200 ECC RAM ● 2x Seagate 8TB HDD for data ● 1TB NVME SSD for boot ● 350W Flex-ATX PSU ● ASRock A520M-ITX/ac
