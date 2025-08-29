@@ -14,7 +14,7 @@ In mid-2024, I delved into homelabbing and built my own home server, which funct
 Some specs:
  - *Home server:* Ryzen 5 PRO 4650G CPU with iGPU ● 32GB DDR4-3200 ECC RAM ● 2x Seagate 8TB HDD for data ● 500GB NVME SSD for boot ● 350W Flex-ATX PSU ● ASRock A520M-ITX/ac
 
- - *Hetzner VPS CX22:* 2x shared vCPU ● 4GB RAM ● 40GB SSD ● dedicated IPv4 and IPv6 ● 20TB outbound traffic / month ● unlimited inbound traffic
+ - *Hetzner VPS CX22:* 2x shared vCPU ● 4GB RAM ● 40GB SSD ● dedicated IPv4 ● 20TB outbound traffic / month ● unlimited inbound traffic
 
 
 <!-- TODO: write some lines about current projects like the gdpr analysis tools -->
