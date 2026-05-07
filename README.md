@@ -5,14 +5,11 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
 
-<!--- During the 2024/25 semester, I completed an internship where I developed the skid-steer kinematics for a wheel-driven robot. I implemented the control software to calculate the required movements using inverse kinematics, enabling the robot to accurately follow a sequence of predefined waypoints. The main program was written in C89 for a 32-bit AVR microcontroller. -->
-
-In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS from [Hetzner](https://hetzner.cloud/?ref=R1fOxWby9OCZ) to host [nginx](https://nginx.org/) and [Wireguard](https://www.wireguard.com/), as an alternative to the Cloudflare solution. For domain registration, I use [IONOS](https://aklam.io/p11ScA).
+In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS to host [nginx](https://nginx.org/) and [Wireguard](https://www.wireguard.com/), as an alternative to the Cloudflare solution.
 
 Some specs:
- - *Home server:* Ryzen 5 PRO 4650G CPU with iGPU ● 64GB DDR4-3200 ECC RAM ● 2x Seagate 8TB HDD for data ● 500GB NVME SSD for boot ● 350W Flex-ATX PSU ● ASRock A520M-ITX/ac
-
- - *Hetzner VPS CX22:* 2x shared vCPU ● 4GB RAM ● 40GB SSD ● dedicated IPv4 ● 20TB outbound traffic / month ● unlimited inbound traffic
+ - *Home server:* 6C/12T ● 64GB ECC RAM ● 8TB for data (RAID1) ● 1Gb/s symmetric internet link
+ - *Hetzner VPS:* 2C/2T ● 4GB RAM ● 40GB SSD ● dedicated IPv4 ● 20TB< outbound traffic / month ● unlimited inbound traffic
 
 
 <!-- ## Languages &amp; Frameworks -->
