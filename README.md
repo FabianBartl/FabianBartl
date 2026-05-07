@@ -9,7 +9,7 @@ In mid-2024, I delved into homelabbing and built my own home server, which funct
 
 Some specs:
  - *Home server:* 6C/12T ● 64GB ECC RAM ● 8TB for data (RAID1) ● 1Gb/s symmetric internet link
- - *Hetzner VPS:* 2C/2T ● 4GB RAM ● 40GB SSD ● dedicated IPv4 ● 20TB< outbound traffic / month ● unlimited inbound traffic
+ - *Hetzner VPS:* 2C/2T ● 4GB RAM ● 40GB SSD ● dedicated IPv4 ● 20TB outbound traffic / month ● unlimited inbound traffic
 
 
 <!-- ## Languages &amp; Frameworks -->
