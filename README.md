@@ -5,19 +5,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl)&nbsp;
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fabianbartl/fabianbartl&query_only)&nbsp; -->
 
-During the 2024/25 semester, I completed an internship where I developed the skid-steer kinematics for a wheel-driven robot. I implemented the control software to calculate the required movements using inverse kinematics, enabling the robot to accurately follow a sequence of predefined waypoints. The main program was written in C89 for a 32-bit AVR microcontroller.
+<!--- During the 2024/25 semester, I completed an internship where I developed the skid-steer kinematics for a wheel-driven robot. I implemented the control software to calculate the required movements using inverse kinematics, enabling the robot to accurately follow a sequence of predefined waypoints. The main program was written in C89 for a 32-bit AVR microcontroller. -->
 
-Right now I'm learning *parallel computing* in C and Python using OpenMP and MPI.
-
-In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS from [Hetzner](https://hetzner.cloud/?ref=R1fOxWby9OCZ) to host [Pangolin](https://fossorial.io/), a free and open-source reverse proxy, as an alternative to the Cloudflare solution. For domain registration, I use [IONOS](https://aklam.io/p11ScA).
+In mid-2024, I delved into homelabbing and built my own home server, which functions not only as a NAS but is primarily designed to host a variety of services. I mainly use it to run [Jellyfin](https://jellyfin.org/) and [Immich](https://immich.app/). Additionally, I rented a VPS from [Hetzner](https://hetzner.cloud/?ref=R1fOxWby9OCZ) to host [nginx](https://nginx.org/) and [Wireguard](https://www.wireguard.com/), as an alternative to the Cloudflare solution. For domain registration, I use [IONOS](https://aklam.io/p11ScA).
 
 Some specs:
  - *Home server:* Ryzen 5 PRO 4650G CPU with iGPU ● 32GB DDR4-3200 ECC RAM ● 2x Seagate 8TB HDD for data ● 500GB NVME SSD for boot ● 350W Flex-ATX PSU ● ASRock A520M-ITX/ac
 
  - *Hetzner VPS CX22:* 2x shared vCPU ● 4GB RAM ● 40GB SSD ● dedicated IPv4 ● 20TB outbound traffic / month ● unlimited inbound traffic
-
-
-<!-- TODO: write some lines about current projects like the gdpr analysis tools -->
 
 
 <!-- ## Languages &amp; Frameworks -->
